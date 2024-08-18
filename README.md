@@ -1,7 +1,7 @@
 # Dự Án: Quản Lý Danh Bạ Điện Thoại
 
 ## Ngôn ngữ lập trình:
-###`C++`
+`C++`
 
 ## Mô tả
 
