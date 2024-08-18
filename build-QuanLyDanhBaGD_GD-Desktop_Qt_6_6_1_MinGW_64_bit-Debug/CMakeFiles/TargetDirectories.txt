@@ -1,0 +1,9 @@
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/QuanLyDanhBaGD_GD.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/QuanLyDanhBaGD_GD_autogen_timestamp_deps.dir
+D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/QuanLyDanhBaGD_GD_autogen.dir

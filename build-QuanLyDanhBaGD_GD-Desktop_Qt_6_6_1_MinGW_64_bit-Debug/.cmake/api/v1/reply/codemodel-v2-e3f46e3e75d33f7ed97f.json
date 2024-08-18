@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-920907290b202d6db26b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QuanLyDanhBaGD_GD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QuanLyDanhBaGD_GD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuanLyDanhBaGD_GD-Debug-b97ec44dbd17dd8e058e.json",
+					"name" : "QuanLyDanhBaGD_GD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuanLyDanhBaGD_GD_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuanLyDanhBaGD_GD_autogen-Debug-05af7b21eb6671faea27.json",
+					"name" : "QuanLyDanhBaGD_GD_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QuanLyDanhBaGD_GD_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QuanLyDanhBaGD_GD_autogen_timestamp_deps-Debug-9f800d23ced088fca9ff.json",
+					"name" : "QuanLyDanhBaGD_GD_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/github/c++/build-QuanLyDanhBaGD_GD-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "D:/github/c++/QuanLyDanhBaGD_GD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
